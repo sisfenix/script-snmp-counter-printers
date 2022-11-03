@@ -26,7 +26,7 @@ isoShortName = "iso.3.6.1.2.1.1.1.0"
 isoSerialNumber = "iso.3.6.1.2.1.43.5.1.1.17.1"
 
 # tupla dos OID para consulta
-oids = (isoSerialNumber, isoShortName, isoLocation)
+oids = (isoSerialNumber, isoShortName, isoLocation, isoTotalPageCount)
 
 # criar arquivos com os dados
 #filenamedst = "dst/" + datetime.now().strftime("%Y%m%d%H%M") + "_contadores_impressoras.txt"
